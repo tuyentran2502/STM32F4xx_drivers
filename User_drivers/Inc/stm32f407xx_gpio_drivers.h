@@ -11,7 +11,7 @@
 #include "stm32f407xx.h"
 
 /*
- * This is a Configuration structure for a GPIO pin
+ * This is a Configuration structure for a GPIO pin odhfjihaijfhdifh
  */
 typedef struct
 {
