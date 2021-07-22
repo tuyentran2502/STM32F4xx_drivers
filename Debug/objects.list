@@ -1,0 +1,5 @@
+"Src/syscalls.o"
+"Src/sysmem.o"
+"Startup/startup_stm32f407vgtx.o"
+"User_drivers/Src/stm32f407xx_gpio_drivers.o"
+"User_drivers/Src/stm32f407xx_spi_drivers.o"
